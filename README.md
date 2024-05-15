@@ -1,5 +1,5 @@
 Simple Meals App using jetpack compose
-🛠️ Used in the Project
+💡 Used in the Project
 ✅ Clean Architecture
 ✅ MVVM Design Pattern
 ✅ Kotlin
@@ -11,4 +11,4 @@ Simple Meals App using jetpack compose
 ✅ Flow
 ✅ OkHttp
 ✅ Retrofit
-✅ Themealdb API
+✅Themealdb API
